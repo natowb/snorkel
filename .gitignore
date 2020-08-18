@@ -133,7 +133,7 @@ dask-worker-space/
 .DS_Store
 
 # Generic data directories
-**/data/*
+# **/data/*
 
 # Nohup
 nohup.out
