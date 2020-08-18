@@ -3,5 +3,4 @@
 .vscode
 build
 *cache*
-*/data
 *env*
