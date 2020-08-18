@@ -46,7 +46,7 @@ np.random.seed(SEED)
 torch.manual_seed(SEED)
 
 # Make sure we're running from the spam/ directory
-if os.path.basename(os.getcwd()) == "snorkel-tutorials":
+if os.path.basename(os.getcwd()) == "snorkel":
     os.chdir("spam")
 
 # To visualize logs
